@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: 3856f7c97455f5e49a9c73a4de5ec795
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2096474659342433813
+    second: pohon_0
+  - first:
+      213: 7809998425821254898
+    second: pohon_1
+  - first:
+      213: -4011794335302605906
+    second: pohon_2
+  - first:
+      213: -2963234748702838333
+    second: pohon_3
+  - first:
+      213: -5920181912664177988
+    second: pohon_4
+  - first:
+      213: -6158088727784302981
+    second: pohon_5
+  - first:
+      213: -7098841905799095981
+    second: pohon_6
+  - first:
+      213: 5883187554409683395
+    second: pohon_7
+  - first:
+      213: -6425138783751834766
+    second: pohon_8
+  - first:
+      213: 2303224118339376559
+    second: pohon_9
+  - first:
+      213: 2376478637229886374
+    second: pohon_10
+  - first:
+      213: 3835809258487885700
+    second: pohon_11
+  - first:
+      213: -7043126367167035607
+    second: pohon_12
+  - first:
+      213: -7714549769221273123
+    second: pohon_13
+  - first:
+      213: 1733805983479172760
+    second: pohon_14
+  - first:
+      213: 9137897237842386842
+    second: pohon_15
+  - first:
+      213: 5132397466993300459
+    second: pohon_16
+  - first:
+      213: -1540022260640033245
+    second: pohon_17
+  - first:
+      213: -3544078458427447414
+    second: pohon_18
+  - first:
+      213: -7782134610540969823
+    second: pohon_19
+  - first:
+      213: 2245200265690713605
+    second: pohon_20
+  - first:
+      213: 6468632580902063302
+    second: pohon_21
+  - first:
+      213: -662162811675925769
+    second: pohon_22
+  - first:
+      213: -7915476014642209599
+    second: pohon_23
+  - first:
+      213: 7564642768606123664
+    second: pohon_24
+  - first:
+      213: -5860499758427096192
+    second: pohon_25
+  - first:
+      213: -3108644704341810405
+    second: pohon_26
+  - first:
+      213: -8873004921106313310
+    second: pohon_27
+  - first:
+      213: 37838260645501048
+    second: pohon_28
+  - first:
+      213: 3121992688946237076
+    second: pohon_29
+  - first:
+      213: -905462460794711269
+    second: pohon_30
+  - first:
+      213: 2781362056891770344
+    second: pohon_31
+  - first:
+      213: 2004041774872571780
+    second: pohon_32
+  - first:
+      213: -1281956282013944957
+    second: pohon_33
+  - first:
+      213: 8850929192079973941
+    second: pohon_34
+  - first:
+      213: 7122198050731700601
+    second: pohon_35
+  - first:
+      213: -4964703743199655019
+    second: pohon_36
+  - first:
+      213: -8912587351587888092
+    second: pohon_37
+  - first:
+      213: 6916642465686078913
+    second: pohon_38
+  - first:
+      213: -1186429668721454644
+    second: pohon_39
+  - first:
+      213: 646420290026776882
+    second: pohon_40
+  - first:
+      213: -3235161204896416646
+    second: pohon_41
+  - first:
+      213: -4521712783871874860
+    second: pohon_42
+  - first:
+      213: 183941151176330743
+    second: pohon_43
+  - first:
+      213: -1476544693226527006
+    second: pohon_44
+  - first:
+      213: -1895206162165553985
+    second: pohon_45
+  - first:
+      213: 4973856276619995172
+    second: pohon_46
+  - first:
+      213: 2569376908974520301
+    second: pohon_47
+  - first:
+      213: 8899640010656982819
+    second: pohon_48
+  - first:
+      213: 8959125940584765066
+    second: pohon_49
+  - first:
+      213: 3461611732507474205
+    second: pohon_50
+  - first:
+      213: 3960638355387393497
+    second: pohon_51
+  - first:
+      213: -8347726039242846119
+    second: pohon_52
+  - first:
+      213: -5893302496876145981
+    second: pohon_53
+  - first:
+      213: 1750197704895998668
+    second: pohon_54
+  - first:
+      213: 6100484865702357200
+    second: pohon_55
+  - first:
+      213: 2535715173900989378
+    second: pohon_56
+  - first:
+      213: 3026723776319843765
+    second: pohon_57
+  - first:
+      213: 3287655970565139306
+    second: pohon_58
+  - first:
+      213: -711162487924182621
+    second: pohon_59
+  - first:
+      213: 7206832235700612456
+    second: pohon_60
+  - first:
+      213: 2084655115610246943
+    second: pohon_61
+  - first:
+      213: -412714475057338134
+    second: pohon_62
+  - first:
+      213: 1680295509700860777
+    second: pohon_63
+  - first:
+      213: -4823465530706233584
+    second: pohon_64
+  - first:
+      213: 6901806159168814724
+    second: pohon_65
+  - first:
+      213: 95554027962275783
+    second: pohon_66
+  - first:
+      213: -5772989716826831709
+    second: pohon_67
+  - first:
+      213: 2092072790000051493
+    second: pohon_68
+  - first:
+      213: -7344832864768873792
+    second: pohon_69
+  - first:
+      213: -672053338344370807
+    second: pohon_70
+  - first:
+      213: -8250822426523762505
+    second: pohon_71
+  - first:
+      213: -7894479485196826774
+    second: pohon_72
+  - first:
+      213: -8232880692910278541
+    second: pohon_73
+  - first:
+      213: 1301597995309489133
+    second: pohon_74
+  - first:
+      213: 8268609572869638400
+    second: pohon_75
+  - first:
+      213: -4248708240341807886
+    second: pohon_76
+  - first:
+      213: 4573826866708189166
+    second: pohon_77
+  - first:
+      213: 6836385214391243253
+    second: pohon_78
+  - first:
+      213: -3432184571317731546
+    second: pohon_79
+  - first:
+      213: -6219088696016964095
+    second: pohon_80
+  - first:
+      213: -6699912498842995757
+    second: pohon_81
+  - first:
+      213: -5675888599042453321
+    second: pohon_82
+  - first:
+      213: -5096995919680161310
+    second: pohon_83
+  - first:
+      213: -2953301445017234976
+    second: pohon_84
+  - first:
+      213: 7968884402997697157
+    second: pohon_85
+  - first:
+      213: 5699205638597300291
+    second: pohon_86
+  - first:
+      213: -3354968098524661021
+    second: pohon_87
+  - first:
+      213: 7068665770204387736
+    second: pohon_88
+  - first:
+      213: 4504140979746392390
+    second: pohon_89
+  - first:
+      213: -8611133893084751254
+    second: pohon_90
+  - first:
+      213: -6144011991527425814
+    second: pohon_91
+  - first:
+      213: 9156601389168154545
+    second: pohon_92
+  - first:
+      213: 989018657518018339
+    second: pohon_93
+  - first:
+      213: -426763752887363577
+    second: pohon_94
+  - first:
+      213: 6669795327106148725
+    second: pohon_95
+  - first:
+      213: 7977276342010035651
+    second: pohon_96
+  - first:
+      213: 6296441518736010450
+    second: pohon_97
+  - first:
+      213: 8233746443826416199
+    second: pohon_98
+  - first:
+      213: 417657481408888808
+    second: pohon_99
+  - first:
+      213: 1419727505850369278
+    second: pohon_100
+  - first:
+      213: 5470272002858187001
+    second: pohon 1_0
+  - first:
+      213: 8715984918401131404
+    second: pohon 1_1
+  - first:
+      213: -4441169792198770317
+    second: pohon 1_2
+  - first:
+      213: -7752680704083610196
+    second: pohon 1_3
+  - first:
+      213: 1249327824960311781
+    second: pohon 1_4
+  - first:
+      213: 2120245651617183188
+    second: pohon 1_5
+  - first:
+      213: 5808990413798690487
+    second: pohon 1_6
+  - first:
+      213: 8111680533716810870
+    second: pohon 1_7
+  - first:
+      213: -7956714845081928104
+    second: pohon 1_8
+  - first:
+      213: 452124957016079426
+    second: pohon 1_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pohon 1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 63
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f87023676f4aeb40800000000000000
+      internalID: 5470272002858187001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pohon 1_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 300
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8326f0aa1665f870800000000000000
+      internalID: 8715984918401131404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pohon 1_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 137
+        width: 84
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3710cc4ba9bcd52c0800000000000000
+      internalID: -4441169792198770317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pohon 1_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 135
+        width: 94
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca53210a9f1f86490800000000000000
+      internalID: -7752680704083610196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pohon 1_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 228
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e155ce9901865110800000000000000
+      internalID: 1249327824960311781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pohon 1_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d57535cf20ac6d10800000000000000
+      internalID: 2120245651617183188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pohon 1_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 131
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bece16010ead9050800000000000000
+      internalID: 5808990413798690487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pohon 1_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 126
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c34a7c77a729070800000000000000
+      internalID: 8111680533716810870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pohon 1_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e70df3102149190800000000000000
+      internalID: -7956714845081928104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pohon 1_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c3801c045464600800000000000000
+      internalID: 452124957016079426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

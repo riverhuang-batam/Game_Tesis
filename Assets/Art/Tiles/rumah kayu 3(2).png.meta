@@ -1,0 +1,896 @@
+fileFormatVersion: 2
+guid: 4ec7d30de4fe5e44a9d786b0601e05b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5933300869998615303
+    second: rumah kayu 3(2)_0
+  - first:
+      213: 3479800015890539210
+    second: rumah kayu 3(2)_1
+  - first:
+      213: -3955564418021315805
+    second: rumah kayu 3(2)_2
+  - first:
+      213: -8198259947820559253
+    second: rumah kayu 3(2)_3
+  - first:
+      213: 1496083179120286515
+    second: rumah kayu 3(2)_4
+  - first:
+      213: 210168775925298383
+    second: rumah kayu 3(2)_5
+  - first:
+      213: -2852852360391470063
+    second: rumah kayu 3(2)_6
+  - first:
+      213: 3423563971280448601
+    second: rumah kayu 3(2)_7
+  - first:
+      213: -5870148983475723092
+    second: rumah kayu 3(2)_8
+  - first:
+      213: 554102301684929960
+    second: rumah kayu 3(2)_9
+  - first:
+      213: 3700150477900462372
+    second: rumah kayu 3(2)_10
+  - first:
+      213: 1714758408364218427
+    second: rumah kayu 3(2)_11
+  - first:
+      213: -2190782650663007778
+    second: rumah kayu 3(2)_12
+  - first:
+      213: 1050283967430663042
+    second: rumah kayu 3(2)_13
+  - first:
+      213: -678357826840804332
+    second: rumah kayu 3(2)_14
+  - first:
+      213: -6630405576139682927
+    second: rumah kayu 3(2)_15
+  - first:
+      213: -540799921006755066
+    second: rumah kayu 3(2)_16
+  - first:
+      213: -8372929255853404067
+    second: rumah kayu 3(2)_17
+  - first:
+      213: -422229573103683346
+    second: rumah kayu 3(2)_18
+  - first:
+      213: 243600247575446370
+    second: rumah kayu 3(2)_19
+  - first:
+      213: 5929156456402693445
+    second: rumah kayu 3(2)_20
+  - first:
+      213: 6310781714981249898
+    second: rumah kayu 3(2)_21
+  - first:
+      213: 1919098576538097882
+    second: rumah kayu 3(2)_22
+  - first:
+      213: -3694876011580687924
+    second: rumah kayu 3(2)_23
+  - first:
+      213: 5570493319137340303
+    second: rumah kayu 3(2)_24
+  - first:
+      213: 4080788869319259772
+    second: rumah kayu 3(2)_25
+  - first:
+      213: -6976127408206331540
+    second: rumah kayu 3(2)_26
+  - first:
+      213: 2011194332105165514
+    second: rumah kayu 3(2)_27
+  - first:
+      213: 2013990921786922380
+    second: rumah kayu 3(2)_28
+  - first:
+      213: -206934362607285570
+    second: rumah kayu 3(2)_29
+  - first:
+      213: 3480773970718190015
+    second: rumah kayu 3(2)_30
+  - first:
+      213: 6169696329386325925
+    second: rumah kayu 3(2)_31
+  - first:
+      213: -1481730244906502267
+    second: rumah kayu 3(2)_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f467327b4ea8ada0800000000000000
+      internalID: -5933300869998615303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2ed8c7dabba4030800000000000000
+      internalID: 3479800015890539210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b2aa98e130b19c0800000000000000
+      internalID: -3955564418021315805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d7d1830ee93e80800000000000000
+      internalID: -8198259947820559253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 403
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bd6ed89b723c410800000000000000
+      internalID: 1496083179120286515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4f7ef536baae200800000000000000
+      internalID: 210168775925298383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1145b3ea4e1a868d0800000000000000
+      internalID: -2852852360391470063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c2ff50b41f28f20800000000000000
+      internalID: 3423563971280448601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca42f45d99a098ea0800000000000000
+      internalID: -5870148983475723092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_9
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5182d8b1190b700800000000000000
+      internalID: 554102301684929960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 387
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429bfb26143995330800000000000000
+      internalID: 3700150477900462372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38d92eefab0cc710800000000000000
+      internalID: 1714758408364218427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9842759c6c891e0800000000000000
+      internalID: -2190782650663007778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b1ef724bb539e00800000000000000
+      internalID: 1050283967430663042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4144c8c862df596f0800000000000000
+      internalID: -678357826840804332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bcc6502411cf3a0800000000000000
+      internalID: -6630405576139682927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 371
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60345dd4651be78f0800000000000000
+      internalID: -540799921006755066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50d16714316dcb80800000000000000
+      internalID: -8372929255853404067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee87d79b070f32af0800000000000000
+      internalID: -422229573103683346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2638eef6221716300800000000000000
+      internalID: 243600247575446370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_20
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54da8911268984250800000000000000
+      internalID: 5929156456402693445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ec78a886649750800000000000000
+      internalID: 6310781714981249898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 355
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d28fccf102aa10800000000000000
+      internalID: 1919098576538097882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9fe9008d929bcc0800000000000000
+      internalID: -3694876011580687924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b2ed6f82e5e4d40800000000000000
+      internalID: 5570493319137340303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76742f0bdfd1a830800000000000000
+      internalID: 4080788869319259772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_26
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61cef55511df2f90800000000000000
+      internalID: -6976127408206331540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_27
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca486bd69239eb10800000000000000
+      internalID: 2011194332105165514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8598f1a21223fb10800000000000000
+      internalID: 2013990921786922380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba88f82b42d02df0800000000000000
+      internalID: -206934362607285570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb965140c713e4030800000000000000
+      internalID: 3480773970718190015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a77a158f1a2f9550800000000000000
+      internalID: 6169696329386325925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rumah kayu 3(2)_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 323
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587356b5136df6be0800000000000000
+      internalID: -1481730244906502267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
